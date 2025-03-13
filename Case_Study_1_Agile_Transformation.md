@@ -18,4 +18,4 @@ A QA team faced the following challenges:
 - **Testing cycle time reduced by 40%**, aligning QA efforts with sprints.  
 - **Sprint predictability improved** due to better backlog refinement.  
 - **Cross-team collaboration increased**, leading to **fewer last-minute defects**.  
-
+**View More Case Studies:** [Scrum Master Case Studies Repository](https://github.com/your-username/Scrum_Master_Case_Studies)
